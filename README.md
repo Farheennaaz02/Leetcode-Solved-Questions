@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 ## String
 |  |
@@ -58,5 +59,18 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
