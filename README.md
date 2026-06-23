@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
+| [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 ## String
 |  |
 | ------- |
@@ -48,9 +49,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
