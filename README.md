@@ -7,6 +7,7 @@
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
+| [0485-max-consecutive-ones](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1470-shuffle-the-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
