@@ -9,6 +9,7 @@
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
+| [1470-shuffle-the-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
