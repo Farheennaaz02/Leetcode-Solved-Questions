@@ -13,7 +13,6 @@ public class Solution {
                 result.Add( "Push");
                 i++;
                 j++;
-
             }
             else {
                 result.Add("Push");
@@ -21,12 +20,5 @@ public class Solution {
                 j++;
 
             }
-
         }
-        
-            return result ;
-
-
-        
-    }
-}
+            return result ;}}
