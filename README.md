@@ -13,6 +13,7 @@
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -43,6 +44,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
