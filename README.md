@@ -17,6 +17,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -63,6 +64,7 @@
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
