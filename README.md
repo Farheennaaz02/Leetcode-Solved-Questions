@@ -17,6 +17,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -56,11 +57,13 @@
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
 | ------- |
