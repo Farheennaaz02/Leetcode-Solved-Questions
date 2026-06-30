@@ -10,12 +10,10 @@ public class Solution {
                     result.Add(prices[i]-prices[j]);
                     break;
                 }
-                
             }
             if (!found){
                 result.Add(prices[i]);
             }
-
         }
         return result.ToArray ();
         
