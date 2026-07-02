@@ -113,11 +113,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
@@ -188,9 +190,11 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
