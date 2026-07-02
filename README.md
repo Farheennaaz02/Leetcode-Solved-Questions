@@ -116,12 +116,14 @@
 | [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -192,9 +194,11 @@
 | ------- |
 | [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
