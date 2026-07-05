@@ -19,6 +19,7 @@
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
+| [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -114,6 +116,7 @@
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
