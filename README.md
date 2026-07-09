@@ -14,6 +14,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -261,4 +263,5 @@
 | [0027-remove-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
