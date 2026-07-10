@@ -17,11 +17,6 @@ public class Solution {
             break ;
         }
         }
-        
         return queue.Count ;
-
-
-
-        
     }
 }
