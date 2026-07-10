@@ -35,6 +35,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
 | ------- |
