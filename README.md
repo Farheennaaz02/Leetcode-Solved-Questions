@@ -27,6 +27,7 @@
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1470-shuffle-the-array) |
@@ -72,6 +73,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -109,6 +111,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
