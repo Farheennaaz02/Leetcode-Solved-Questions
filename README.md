@@ -229,6 +229,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sliding Window
 |  |
