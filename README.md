@@ -31,6 +31,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
@@ -123,6 +124,7 @@
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -158,6 +160,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -239,6 +242,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -355,4 +359,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
