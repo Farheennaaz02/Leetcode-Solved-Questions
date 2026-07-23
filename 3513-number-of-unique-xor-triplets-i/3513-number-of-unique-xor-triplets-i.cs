@@ -11,17 +11,13 @@ public class Solution {
         // nums=[1]
         // 
         int n = nums.Length ;
-
         if (  n<=2){
             return n ;
         }
         int ans =1;
         while ( ans<=n){
-            ans<<=1;
+            ans= ans *2;
         }
         return ans ;
-
-        
-
     }
 }
