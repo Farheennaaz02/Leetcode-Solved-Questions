@@ -73,6 +73,7 @@
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1328-break-a-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -153,6 +154,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -304,6 +306,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
