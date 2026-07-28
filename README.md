@@ -77,6 +77,7 @@
 | [1328-break-a-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -374,6 +375,7 @@
 | [0088-merge-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
