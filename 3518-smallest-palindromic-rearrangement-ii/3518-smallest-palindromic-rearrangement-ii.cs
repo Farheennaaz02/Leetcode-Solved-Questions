@@ -1,93 +1,75 @@
-using System;
-using System.Text;
-using System.Numerics;
+public class Solution {
+    public string SmallestPalindrome(string s, long k) {
+        int partition = s.Length / 2;
+        int[] bucket = new int[26];
 
-public class Solution
-{
-    const int LIMIT = 1000000;
-
-    public string SmallestPalindrome(string s, int k)
-    {
-        int[] freq = new int[26];
-
-        foreach (char c in s)
-            freq[c - 'a']++;
-
-        int[] half = new int[26];
-        int halfLen = 0;
-        char mid = '\0';
-
-        for (int i = 0; i < 26; i++)
-        {
-            if ((freq[i] & 1) == 1)
-                mid = (char)('a' + i);
-
-            half[i] = freq[i] / 2;
-            halfLen += half[i];
+        for (int i = 0; i < partition; i++) {
+            bucket[s[i] - 97] += 1;
         }
 
-        BigInteger ways = CountWays(half, halfLen);
+        long C(long n, long m) {
+            long res = 1;
+            m = Math.Min(m, n - m);
 
-        if (ways < k)
-            return "";
+            for (long i = 1; i <= m; i++) {
+                res = res * (n - i + 1) / i;
+                if (res > k) {
+                    return k + 1;
+                }
+            }
+            return res;
+        }
 
-        StringBuilder left = new StringBuilder();
-
-        int remaining = halfLen;
-
-        for (int pos = 0; pos < halfLen; pos++)
-        {
-            for (int c = 0; c < 26; c++)
-            {
-                if (half[c] == 0)
+        long Permutations(int rem) {
+            long ways = 1;
+            for (int i = 0; i < 26; i++) {
+                if (bucket[i] == 0) {
                     continue;
+                }
 
-                BigInteger nextWays = ways * half[c] / remaining;
+                ways *= C(rem, bucket[i]);
+                if (ways > k) {
+                    break;
+                }
+                rem -= bucket[i];
+            }
+            return ways;
+        }
 
-                if (nextWays >= k)
-                {
-                    left.Append((char)('a' + c));
-                    ways = nextWays;
-                    half[c]--;
-                    remaining--;
+        var left = new StringBuilder();
+        long startIndex = 1;
+
+        for (int pos = 0; pos < partition; pos++) {
+            for (int i = 0; i < 26; i++) {
+                if (bucket[i] == 0) {
+                    continue;
+                }
+
+                bucket[i] -= 1;
+
+                long ways = Permutations(partition - pos - 1);
+                if (startIndex + ways > k) {
+                    left.Append((char)(i + 97));
                     break;
                 }
 
-                k -= (int)nextWays;
+                bucket[i] += 1;
+                startIndex += ways;
             }
         }
 
-        string first = left.ToString();
-
-        char[] rev = first.ToCharArray();
-        Array.Reverse(rev);
-
-        if (mid == '\0')
-            return first + new string(rev);
-
-        return first + mid + new string(rev);
-    }
-
-    private BigInteger CountWays(int[] cnt, int total)
-    {
-        BigInteger ans = Factorial(total);
-
-        foreach (int x in cnt)
-        {
-            if (x > 1)
-                ans /= Factorial(x);
+        if (left.Length < partition) {
+            return "";
         }
 
-        return ans;
-    }
+        if (s.Length % 2 != 0) {
+            left.Append(s[partition]);
+        }
 
-    private BigInteger Factorial(int n)
-    {
-        BigInteger ans = 1;
+        for (int i = partition - 1; i >= 0; i--) {
+            left.Append(left[i]);
+        }
 
-        for (int i = 2; i <= n; i++)
-            ans *= i;
-
-        return ans;
+        return left.ToString();
     }
 }
