@@ -1,17 +1,17 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
-        int size=nums.Length;
-        for (int i =0;i<size;i++){
-            for (int j =i+1;j<size;j++){
-                if ( nums[i]+nums[j]==target){
-                    return new int[] {i,j};
-                }
+        Dictionary <int , int > map= new ();
+        for ( int i =0;i<nums.Length;i++){
+            int current = nums[i];
+            int need = target - current ;
+            if (map.ContainsKey(need)){
+                return new int [] {map[need],i};
             }
 
+            map[current ]=i;
         }
+        return new int [0];
 
-    
-           return new int[0];
- 
+        
     }
 }
