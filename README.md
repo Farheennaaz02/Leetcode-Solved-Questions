@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
@@ -266,6 +267,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -443,4 +445,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
