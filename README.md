@@ -36,6 +36,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
@@ -200,6 +201,7 @@
 | [0152-maximum-product-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
