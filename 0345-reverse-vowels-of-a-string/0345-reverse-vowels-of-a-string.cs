@@ -3,9 +3,7 @@ public class Solution {
         char[] arr = s.ToCharArray();
         int i = 0;
         int j = arr.Length - 1;
-
         while (i < j) {
-
             while (i < j &&
                   arr[i] != 'a' && arr[i] != 'e' &&
                   arr[i] != 'i' && arr[i] != 'o' &&
@@ -16,7 +14,6 @@ public class Solution {
             {
                 i++;
             }
-
             while (i < j &&
                   arr[j] != 'a' && arr[j] != 'e' &&
                   arr[j] != 'i' && arr[j] != 'o' &&
@@ -27,11 +24,9 @@ public class Solution {
             {
                 j--;
             }
-
             char temp = arr[i];
             arr[i] = arr[j];
             arr[j] = temp;
-
             i++;
             j--;
         }
