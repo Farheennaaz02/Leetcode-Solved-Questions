@@ -85,6 +85,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -306,6 +307,7 @@
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
@@ -515,4 +517,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
