@@ -93,6 +93,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1768-merge-strings-alternately](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -444,6 +445,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
