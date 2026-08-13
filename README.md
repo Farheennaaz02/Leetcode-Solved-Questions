@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
@@ -117,6 +118,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
@@ -453,6 +455,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
