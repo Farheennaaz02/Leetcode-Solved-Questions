@@ -90,6 +90,7 @@
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -234,6 +235,7 @@
 | [0213-house-robber-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
@@ -460,6 +462,7 @@
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
