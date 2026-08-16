@@ -70,6 +70,7 @@
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -138,6 +139,7 @@
 | [1328-break-a-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1328-break-a-palindrome) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -232,6 +234,7 @@
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -341,6 +344,7 @@
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -524,18 +528,21 @@
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -556,6 +563,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
