@@ -43,6 +43,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1732-find-the-highest-altitude) |
