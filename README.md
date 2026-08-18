@@ -118,6 +118,7 @@
 | [1768-merge-strings-alternately](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -189,6 +190,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
