@@ -44,6 +44,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
@@ -184,6 +185,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -391,6 +393,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
