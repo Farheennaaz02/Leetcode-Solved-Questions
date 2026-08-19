@@ -59,6 +59,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -146,6 +147,7 @@
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1328-break-a-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
@@ -233,6 +235,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -413,6 +416,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
