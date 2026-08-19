@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -609,8 +610,10 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
