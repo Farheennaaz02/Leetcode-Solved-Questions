@@ -548,6 +548,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -628,5 +629,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
