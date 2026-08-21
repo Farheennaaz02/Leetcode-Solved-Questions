@@ -323,6 +323,7 @@
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -338,6 +339,7 @@
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -496,6 +498,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -506,6 +509,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Topological Sort
 |  |
 | ------- |
