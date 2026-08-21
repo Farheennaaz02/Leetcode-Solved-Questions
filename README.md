@@ -322,6 +322,7 @@
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -494,6 +495,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +505,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
 ## Topological Sort
 |  |
 | ------- |
