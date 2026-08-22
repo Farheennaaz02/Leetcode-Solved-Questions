@@ -321,6 +321,7 @@
 | [0101-symmetric-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
@@ -504,6 +505,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -516,6 +518,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -611,6 +614,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
