@@ -282,6 +282,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
@@ -327,6 +328,7 @@
 | [0437-path-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -510,6 +512,7 @@
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -524,6 +527,7 @@
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Topological Sort
 |  |
@@ -661,4 +665,8 @@
 | [0328-odd-even-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
