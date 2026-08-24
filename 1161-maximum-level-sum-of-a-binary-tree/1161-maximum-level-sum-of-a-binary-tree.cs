@@ -15,8 +15,7 @@ public class Solution {
     public int MaxLevelSum(TreeNode root) {
         // print the number off  the level with the max sum 
         // bfs and level sum ceck
-        // update the maxum 
-       
+        // update the maxum    
         int level =1;
         int maxsum = int.MinValue;
         int ans =1;
@@ -28,13 +27,9 @@ public class Solution {
         while ( q.Count >0){
             int size = q.Count ;
              int sum =0;
-            
-            
             for ( int i =0;i<size ;i++){
-               
                 TreeNode node = q.Dequeue();
                 sum+= node.val;
-
                 if ( node.left!= null){
                     q.Enqueue(node.left);
                 }
