@@ -43,6 +43,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0735-asteroid-collision) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1260-shift-2d-grid) |
@@ -337,6 +339,7 @@
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0437-path-sum-iii) |
+| [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0872-leaf-similar-trees) |
@@ -358,6 +361,7 @@
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
@@ -374,6 +378,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2685-count-the-number-of-complete-components) |
