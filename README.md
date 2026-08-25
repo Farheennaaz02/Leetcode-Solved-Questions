@@ -339,6 +339,7 @@
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
@@ -361,6 +362,7 @@
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -507,6 +510,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
