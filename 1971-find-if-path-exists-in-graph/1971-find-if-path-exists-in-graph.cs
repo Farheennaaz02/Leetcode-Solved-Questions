@@ -1,34 +1,38 @@
 public class Solution {
-     bool [] visited ;
-        List <int >[] graph;
-        
+    bool [] visited ;
+    List <IList<int>> graph ;
     public bool ValidPath(int n, int[][] edges, int source, int destination) {
+        // return false /true 
+        // bi directinal 
         visited= new bool[n];
-        graph = new List <int> [n];
-       for ( int i =0;i<n;i++){
-            graph[i]= new List <int>();
+        graph = new List <IList<int>> ();
+        // connected map;
+        for( int i =0;i<n;i++){
+             graph.Add(new List<int>());
+          
+            
         }
-        foreach ( var edge  in edges){
+        foreach ( var edge in edges){
             int u = edge[0];
-            int v= edge[1];
+            int v = edge[1];
             graph[u].Add(v);
-            graph[v].Add(u);
+            graph[v].Add(u);// connected map complete 
         }
-        return DFS ( source, destination);
+        return DFS ( source , destination);
+        
     }
-    public bool DFS( int node, int destination ){
-        visited[node]= true ;
-        if ( node== destination){
+    bool DFS ( int node  , int destination){
+        visited[node]= true;
+        if ( node == destination ){
             return true ;
         }
-        foreach (int neig in graph[node]){
-            if (!visited[neig]){
-                if (DFS(neig, destination)){
+        foreach ( int nei in graph[node]){
+            if ( !visited[nei]){
+                if (DFS ( nei, destination )){
                     return true;
                 }
             }
         }
         return false;
-        
     }
 }
