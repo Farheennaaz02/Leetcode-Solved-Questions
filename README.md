@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -112,6 +113,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0936-stamping-the-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0936-stamping-the-sequence) |
@@ -344,6 +346,7 @@
 | [0207-course-schedule](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
@@ -370,6 +373,7 @@
 | [0207-course-schedule](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
@@ -389,6 +393,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -522,6 +527,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -537,6 +543,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Tree
@@ -741,4 +748,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0207-course-schedule) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
