@@ -1,53 +1,73 @@
-public class Solution {
-    public int OrangesRotting(int[][] grid) {
-        int row = grid.Length ;
-         int col = grid[0].Length ;
-         Queue<(int row , int col) > queue = new ();
+public class Solution
+{
+    public int OrangesRotting(int[][] grid)
+    {
+        int m = grid.Length;
+        int n = grid[0].Length;
 
-         int fresh =0;
-        for ( int i =0;i<row ;i++){
-            for ( int j =0;j<col ;j++){
-                if (grid[i][j]==2){
-                    queue.Enqueue((i,j));
-                    
+        Queue<(int row, int col, int minutes)> q = new();
+
+        int fresh = 0;
+
+        // Put all rotten oranges in queue
+        for (int row = 0; row < m; row++)
+        {
+            for (int col = 0; col < n; col++)
+            {
+                if (grid[row][col] == 2)
+                {
+                    q.Enqueue((row, col, 0));
                 }
-                else if ( grid[i][j]==1){
-                    fresh ++;
+                else if (grid[row][col] == 1)
+                {
+                    fresh++;
                 }
             }
         }
-        if ( fresh ==0){
-            return 0;
-        }
-        int min =0;
-        int [][] direction = 
+
+        int[][] dimensions =
         {
-            new int [] {-1,0},
-            new int []{1,0},
-            new int [] {0,-1},
-            new int []{0,1}
+            new int[] {-1, 0},
+            new int[] {1, 0},
+            new int[] {0, -1},
+            new int[] {0, 1}
         };
 
-        while (queue.Count >0 && fresh>0){
-            int size = queue.Count();
-            for ( int i =0;i<size ;i++){
-                var (rows , cols )= queue.Dequeue();
-                foreach ( int [] din in direction ){
-                    int newrow = rows+din[0];
-                    int newcol = cols +din[1];
-                    if  ( newrow <0|| newrow>=row || newcol <0 || newcol >= col || grid[newrow][newcol]!=1){
-                        continue ;
-                    }
-                    grid[newrow][newcol]=2;
-                    fresh --;
-                    queue.Enqueue ( ( newrow , newcol));
+        int answer = 0;
 
+        while (q.Count > 0)
+        {
+            var current = q.Dequeue();
+
+            int row = current.row;
+            int col = current.col;
+            int minutes = current.minutes;
+
+            foreach (int[] dir in dimensions)
+            {
+                int newrow = row + dir[0];
+                int newcol = col + dir[1];
+
+                if (newrow >= 0 && newcol >= 0 &&
+                    newrow < m && newcol < n &&
+                    grid[newrow][newcol] == 1)
+                {
+                    grid[newrow][newcol] = 2;
+
+                    fresh--;
+
+                    q.Enqueue((newrow, newcol, minutes + 1));
+
+                    answer = minutes + 1;
                 }
             }
-            min ++;
-
         }
-        return fresh==0? min :-1;
-        
+
+        if (fresh > 0)
+        {
+            return -1;
+        }
+
+        return answer;
     }
 }
