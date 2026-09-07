@@ -76,6 +76,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -348,6 +349,7 @@
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -400,6 +402,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2685-count-the-number-of-complete-components) |
