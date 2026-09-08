@@ -85,6 +85,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2542-maximum-subsequence-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -176,6 +177,7 @@
 | [1927-sum-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2542-maximum-subsequence-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -203,6 +205,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2542-maximum-subsequence-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -554,6 +557,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
