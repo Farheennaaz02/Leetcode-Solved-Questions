@@ -52,6 +52,7 @@
 | [0735-asteroid-collision](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
@@ -551,6 +552,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
