@@ -385,6 +385,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3310-remove-methods-from-project) |
@@ -608,6 +609,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -628,6 +630,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Topological Sort
 |  |
 | ------- |
