@@ -52,6 +52,7 @@
 | [0735-asteroid-collision](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -362,6 +363,7 @@
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
