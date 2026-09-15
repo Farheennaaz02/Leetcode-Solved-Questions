@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
@@ -759,6 +760,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
