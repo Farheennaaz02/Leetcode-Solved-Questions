@@ -333,6 +333,7 @@
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -464,6 +465,7 @@
 | [0836-rectangle-overlap](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1510-stone-game-iv) |
@@ -748,6 +750,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
 |  |
 | ------- |
