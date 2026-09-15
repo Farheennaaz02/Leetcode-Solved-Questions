@@ -31,6 +31,7 @@
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0274-h-index) |
@@ -762,6 +763,7 @@
 | [0039-combination-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
