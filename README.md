@@ -330,6 +330,7 @@
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
