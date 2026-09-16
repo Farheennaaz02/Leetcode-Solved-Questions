@@ -142,6 +142,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1328-break-a-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1328-break-a-palindrome) |
@@ -337,6 +338,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
@@ -862,4 +864,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0836-rectangle-overlap) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
