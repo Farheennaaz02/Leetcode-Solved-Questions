@@ -318,6 +318,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -458,6 +459,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
@@ -708,6 +710,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
