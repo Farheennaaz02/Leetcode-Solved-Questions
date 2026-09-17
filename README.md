@@ -136,6 +136,7 @@
 | [0115-distinct-subsequences](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
@@ -282,6 +283,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -824,6 +826,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -885,4 +888,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
