@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
@@ -548,6 +549,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
