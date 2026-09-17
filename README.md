@@ -337,6 +337,7 @@
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -547,6 +548,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
