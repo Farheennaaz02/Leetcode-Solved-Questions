@@ -6,15 +6,15 @@ class Solution {
             int bbit= b&1;
             int cbit=c&1;
             if (cbit == 1){
-                if (abit==0&&  bbit ==0){
+                if (abit!=1&&  bbit !=1){
                     flip ++;
                 }
             }
             else{// cbit ==0
-                if (abit==1){
+                if (abit!=0){
                     flip++;
                 }
-                if (bbit==1){
+                if (bbit!=0){
                     flip++;
                 }
             }
