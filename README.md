@@ -552,6 +552,7 @@
 | [0136-single-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
