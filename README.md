@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
@@ -577,6 +578,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
@@ -824,6 +826,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
