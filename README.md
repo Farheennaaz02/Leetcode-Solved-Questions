@@ -948,4 +948,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
