@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0115-distinct-subsequences) |
@@ -264,6 +265,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -944,6 +946,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
