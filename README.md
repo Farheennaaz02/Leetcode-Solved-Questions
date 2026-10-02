@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
@@ -642,6 +643,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
