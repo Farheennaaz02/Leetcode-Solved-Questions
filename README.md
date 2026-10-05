@@ -320,6 +320,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -889,6 +890,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
@@ -901,6 +903,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -973,4 +976,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
