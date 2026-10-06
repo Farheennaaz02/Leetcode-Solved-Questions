@@ -331,6 +331,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
@@ -540,6 +541,7 @@
 | [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
@@ -777,6 +779,7 @@
 | [0088-merge-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
@@ -994,4 +997,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
