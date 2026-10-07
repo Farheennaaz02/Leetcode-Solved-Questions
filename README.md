@@ -543,6 +543,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
@@ -828,6 +829,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
@@ -927,6 +929,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
