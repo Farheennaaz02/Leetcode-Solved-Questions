@@ -156,6 +156,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
@@ -504,6 +505,7 @@
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0547-number-of-provinces) |
@@ -879,6 +881,7 @@
 | [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
