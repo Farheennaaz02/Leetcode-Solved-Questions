@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -552,6 +553,7 @@
 | [0013-roman-to-integer](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
