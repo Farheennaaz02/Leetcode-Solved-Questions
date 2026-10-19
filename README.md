@@ -106,6 +106,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -283,6 +284,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -716,6 +718,7 @@
 | [1268-search-suggestions-system](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
