@@ -829,6 +829,7 @@
 | [0027-remove-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
@@ -975,6 +976,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
