@@ -179,6 +179,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
@@ -352,6 +353,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
@@ -375,6 +377,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -413,6 +416,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2029-stone-game-ix) |
