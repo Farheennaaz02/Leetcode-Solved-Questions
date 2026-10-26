@@ -81,6 +81,7 @@
 | [1260-shift-2d-grid](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
