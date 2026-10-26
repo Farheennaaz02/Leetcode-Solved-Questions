@@ -49,6 +49,7 @@
 | [0322-coin-change](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0399-evaluate-division) |
+| [0414-third-maximum-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -275,6 +276,7 @@
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
