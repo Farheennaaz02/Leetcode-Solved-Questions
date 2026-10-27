@@ -1088,4 +1088,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
