@@ -614,6 +614,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -702,6 +703,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -916,6 +918,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/3483-unique-3-digit-even-numbers) |
