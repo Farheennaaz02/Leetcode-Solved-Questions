@@ -32,6 +32,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
@@ -758,6 +759,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
@@ -872,6 +874,7 @@
 | [0088-merge-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
