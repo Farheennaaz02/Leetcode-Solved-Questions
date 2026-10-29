@@ -41,6 +41,7 @@
 | [0213-house-robber-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0238-product-of-array-except-self) |
@@ -285,6 +286,7 @@
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0414-third-maximum-number) |
@@ -380,6 +382,7 @@
 | [0169-majority-element](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
