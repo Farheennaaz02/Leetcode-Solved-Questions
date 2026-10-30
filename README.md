@@ -335,6 +335,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0636-exclusive-time-of-functions) |
@@ -1028,6 +1029,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
