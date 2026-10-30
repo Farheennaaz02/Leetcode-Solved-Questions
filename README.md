@@ -192,6 +192,7 @@
 | [0412-fizz-buzz](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0856-score-of-parentheses) |
@@ -392,6 +393,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -747,6 +749,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -889,6 +892,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
