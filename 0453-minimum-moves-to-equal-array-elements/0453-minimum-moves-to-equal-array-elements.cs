@@ -11,8 +11,5 @@ public class Solution {
             j--;
         }
         return element.Sum ();
-
-
-        
     }
 }
