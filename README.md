@@ -90,6 +90,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -311,6 +312,7 @@
 | [1288-remove-covered-intervals](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -798,6 +800,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -923,6 +926,7 @@
 | [0443-string-compression](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
