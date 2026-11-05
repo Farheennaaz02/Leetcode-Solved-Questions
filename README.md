@@ -180,6 +180,7 @@
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -392,6 +393,7 @@
 | [0013-roman-to-integer](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -772,6 +774,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
