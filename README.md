@@ -108,6 +108,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -827,6 +828,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1268-search-suggestions-system](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/2542-maximum-subsequence-score) |
