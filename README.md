@@ -20,6 +20,7 @@
 | [0066-plus-one](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
@@ -183,6 +184,7 @@
 | [0058-length-of-last-word](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -542,6 +544,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0695-max-area-of-island) |
@@ -561,6 +564,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -1029,6 +1033,7 @@
 | [0039-combination-sum](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Farheennaaz02/Leetcode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
